@@ -3,7 +3,8 @@
 **Phát triển bởi:** Hoàng Minh  
 
 ## Mô tả  
-Thalassa Math là một phần mềm hỗ trợ giải toán và phân tích dữ liệu toán học được thiết kế để giúp người dùng học các phép toán cơ bản    
+- Thalassa Math là một phần mềm thiết kế để giúp người dùng từ 5 đến 10 tuổi học các phép toán cơ bản
+- Là một phần mềm trực quan, dễ hiểu và phù hợp với lứa tuổi từ 5 đến 10 tuổi
 
 ## Thông tin liên hệ  
 - **Tên:** Hoàng Minh  
